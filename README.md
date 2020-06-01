@@ -1,18 +1,20 @@
 # Flask API on Docker with PostgreSql 
 
-**Dockerizing a REST API builded on Flask ! <br>This API provides endpoints to get random facts about my favourite game, Street Fighter II**
+**Dockerizing a REST API builded on Flask ! <br>This API provides endpoints to get random facts about one of my favourite games 🕹️ STREET FIGHTER II !**
+
 
 ## Features
 - Docker
 - Docker Compose
 - Flask
-- gunicorn
+- Gunicorn
 - SQLAlchemy
 - Postgres
-- a website on Ngnix (created with Nicepage)
+- A website for API's documentation and usage, created with Nicepage and Docker (Nginx image)
 
 
-***website***
+**website**<br>
+![website](images/website.png)
 
 ## Setup
 
@@ -32,3 +34,7 @@ Website URL
 http://localhost:9000
 ```
 
+### Possible Future Extensions
+- Try factoring code and remove unused libraries.
+- Add users on facts with auth (name, email, token)
+- Display Facts dynamically on website (HTML/CSS/jQuery) ==> bring Pop-up text to each character.
