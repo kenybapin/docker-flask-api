@@ -1,12 +1,12 @@
 # Flask API on Docker with PostgreSql 
 
-**Dockerizing a REST API builded on Flask ! <br>This API provides endpoints to get random facts about one of my favourite games 🕹️ STREET FIGHTER II !**
+**Dockerizing a REST API builded on Flask ! <br>This API provides endpoints to get random facts about one of my favourite games... 🕹️ STREET FIGHTER II !**
 
 
 ## Features
 - Docker
 - Docker Compose
-- Flask
+- Python / Flask
 - Gunicorn
 - SQLAlchemy
 - Postgres
@@ -18,7 +18,7 @@
 
 ## Setup
 
-Download this releases then build and run in Docker locally
+Download this release then build and run it in docker locally
 ```bash
 git clone https://github.com/kenybapin/docker-flask-api.git
 cd docker-flask-api
