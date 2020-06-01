@@ -9,7 +9,7 @@
 - Python / Flask
 - Gunicorn
 - SQLAlchemy
-- Postgres
+- PostgreSQL
 - A website for API's documentation and usage, created with Nicepage and Docker (Nginx image)
 
 
