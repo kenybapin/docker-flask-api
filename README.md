@@ -1,6 +1,6 @@
 # Flask API on Docker with PostgreSql 
 
-**Dockerizing a REST API builded on Flask ! <br>This API provides endpoints to get random facts about one of my favourite games... 🕹️ STREET FIGHTER II !**
+**Dockerizing a local REST API builded on Flask ! <br>This API provides endpoints to get random facts about one of my favourite games... 🕹️ STREET FIGHTER II !**
 
 
 ## Features
@@ -29,7 +29,7 @@ Base URL for all endpoints
 ```bash
 http://localhost:5000
 ```
-Website URL
+Website URL and documentation
 ```bash
 http://localhost:9000
 ```
@@ -37,4 +37,4 @@ http://localhost:9000
 ### Possible Future Extensions
 - Try factoring code and remove unused libraries.
 - Add users on facts with auth (name, email, token)
-- Display Facts dynamically on website (HTML/CSS/jQuery) ==> bring Pop-up text to each character.
+- Display Facts dynamically on website (HTML/CSS/jQuery) ==> bring "Pop-up" text to each character.
