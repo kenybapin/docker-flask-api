@@ -27,11 +27,11 @@ docker-compose up -d --build
 ## Getting started
 Base URL for all endpoints
 ```bash
-http://localhost:5000
+http://docker_host_ip:5000
 ```
 Website URL and documentation
 ```bash
-http://localhost:9000
+http://docker_host_ip:9000
 ```
 
 ### Possible Future Extensions
