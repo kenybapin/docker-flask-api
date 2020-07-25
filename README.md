@@ -62,7 +62,7 @@ http://docker_host_ip:9000
 | char | Nona | relationship reference to characters table |
 
 
-### Future etensions
+## Future etensions
 - Try factoring code and remove unused libraries.
 - Add users on facts with auth (name, email, token)
 - Display Facts dynamically on website (HTML/CSS/jQuery) ==> bring "Pop-up" text to each character.
