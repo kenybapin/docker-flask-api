@@ -13,7 +13,7 @@ Dockerizing a local REST API builded on Flask <br>This API provides endpoints to
 
 ## Setup
 
-Download this release then build and run it in docker locally
+Clone, build and run it with docker
 ```bash
 git clone https://github.com/kenybapin/docker-flask-api.git
 cd docker-flask-api
